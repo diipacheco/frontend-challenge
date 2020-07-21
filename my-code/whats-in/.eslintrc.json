@@ -37,6 +37,7 @@
         "react/jsx-filename-extension": "off",
         "import/extensions": "off",
         "camelcase": "off",
-        "max-len": "off"
+        "max-len": "off",
+        "linebreak-style": "off"
     }
 }
